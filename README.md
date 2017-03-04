@@ -10,4 +10,4 @@ It's based on PBCore-Element-Set plugin created by @annewootton 5 years ago.
 
 ## Instalation
 
-this plugin is installed as usual in Omeka. For documentation see http://omeka.org/codex/Managing_Plugins_2.0
+This plugin is installed as usual for Omeka. For documentation see http://omeka.org/codex/Managing_Plugins_2.0
