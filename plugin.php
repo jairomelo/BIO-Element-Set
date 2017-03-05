@@ -47,6 +47,12 @@ function install() {
 		),
 		
 		array(
+			'label' => 'mother',
+			'name' => 'Mother',
+			'description' => 'The biological mother of a person, also known as the genetrix.',
+		),
+		
+		array(
 			'label' => 'child',
 			'name' => 'Child',
 			'description' => 'A biological child of a person.',
