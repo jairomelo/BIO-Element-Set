@@ -11,4 +11,4 @@ It's based on PBCore-Element-Set plugin created by @annewootton 5 years ago.
 ## Instalation
 
 1. Install the plugin as usual for Omeka. For documentation see http://omeka.org/codex/Managing_Plugins_2.0
-2. After instalation uninstall or deactivate the plugin, the metadata set will be reflected in the database so the plugin is no more necesary.
+2. After instalation uninstall or deactivate the plugin, the metadata set will be reflected in the database so the plugin is anymore necesary.
